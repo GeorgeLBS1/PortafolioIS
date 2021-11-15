@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Evaluaci%C3%B3n+final+Ingenier%C3%ADa+de+software+1">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=480&lines=Evaluaci%C3%B3n+final+Ingenier%C3%ADa+de+Software+I">
 </p>
 
 ## 📘 Bloques del portafolio
